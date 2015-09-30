@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮纂訓
-#+DATE: 2015-09-23 09:37:36
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:08:12.493350
+#+PROPERTY: ID KR1d0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1d0020_WYG_014-1a>¶
 欽定四庫全書¶
 　周禮纂訓卷十四¶
@@ -812,4 +814,3 @@
 　為巫覡愚意亦同蓋此條所言不主宗廟皆是外神¶
 　凡巫覡所掌外神居多祝宗所掌内神居多¶
 　周禮纂訓卷十四¶
-

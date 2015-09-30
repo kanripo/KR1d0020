@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮纂訓
-#+DATE: 2015-09-23 09:37:35
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:08:12.259778
+#+PROPERTY: ID KR1d0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1d0020_WYG_005-1a>¶
 欽定四庫全書¶
 　周禮纂訓卷五¶
@@ -956,4 +958,3 @@
 　¶
 　¶
 　周禮纂訓卷五¶
-

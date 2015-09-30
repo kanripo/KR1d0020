@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮纂訓
-#+DATE: 2015-09-23 09:37:35
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:08:12.188677
+#+PROPERTY: ID KR1d0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0020_WYG_002-1a>¶
 欽定四庫全書¶
 　周禮纂訓卷二¶
@@ -1100,4 +1102,3 @@
 　　疏上醫師云十全為上惟據疾醫&KR0337;醫不據獸醫¶
 　　故此云計其數以進退之所謂進退其禄也¶
 　周禮纂訓卷二¶
-
